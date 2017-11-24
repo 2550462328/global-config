@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 insert first record 
 insert second record
 insert third record(wait)
+=======
+insert first record 
+>>>>>>> parent of d8f8b2e... 插入第二条数据
