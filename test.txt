@@ -1,1 +1,2 @@
 insert first record 
+insert second record
