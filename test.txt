@@ -1,4 +1,0 @@
-﻿insert first record 
-insert second record
-insert third record(wait)
-
